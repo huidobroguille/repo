@@ -34,7 +34,7 @@
 		android:id="@+id/mapa"
 		android:layout_width="fill_parent"
 		android:layout_height="fill_parent"
-		android:apiKey="0jplSRFIV8tJ3fF62aKG8VuWR8AlUBF_ufUOx8w"
+		android:apiKey=""
 		android:clickable="true" />
 		
 </LinearLayout>
